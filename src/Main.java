@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Введите ваше число");
         System.out.println("Ваше число равно: ");
         System.out.println("Ваше число не равно: ");
+        System.out.println("Ваше число не мыслемо");
         
     }
 }
