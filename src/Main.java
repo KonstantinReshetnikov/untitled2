@@ -6,6 +6,5 @@ public class Main {
         System.out.println("Ваше число равно: ");
         System.out.println("Ваше число не равно: ");
         System.out.println("Ваше число не мыслемо");
-        
     }
 }
