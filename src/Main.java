@@ -1,10 +1,8 @@
-import java.util.Scanner;
+import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Введите ваше число");
-        System.out.println("Ваше число равно: ");
-        System.out.println("Ваше число не равно: ");
-        System.out.println("Ваше число не мыслемо");
+        JFrame frame = new JFrame();
+        frame.setSize(800,600);
     }
 }
